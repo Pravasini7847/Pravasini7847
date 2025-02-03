@@ -14,7 +14,7 @@
 
 -  <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/baf52aa6-ff71-412d-9607-db8feb17874b" width="35">&nbsp;  Ask me about **Python, SQL, Django, HTML, CSS, JavaScript**
 
-- <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/2c0eef4b-7b75-42bd-9722-4bea97a2d532" width="35">&nbsp; How to reach me **nk445552@gmail.com**
+- <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/2c0eef4b-7b75-42bd-9722-4bea97a2d532" width="35">&nbsp; How to reach me **ojhapravasini@gmail.com**
 
 <h3 align="left"><img src="https://user-images.githubusercontent.com/74038190/221352989-518609ab-b4d1-459e-929f-a08cd2bd9b3c.gif" width="45"> Connect with me:</h3>
 <p align="left">
