@@ -1,9 +1,9 @@
-![MasterHead](https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif)
+![MasterHead](https://camo.githubusercontent.com/9f20327239a153d144278f923258f7d649d9ac61ddd770be75f2244916da08ea/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f76322f726573697a653a6669743a3832382f666f726d61743a776562702f302a7942764135436e455833536434616f642e676966)
 <h1 align="center">Hi <img src="https://user-images.githubusercontent.com/74038190/214644152-52f47eb3-5e31-4f47-8758-05c9468d5596.gif" width="30">, I'm Pravasini Ojha</h1>
 
 <h3 align="center"><img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="35%">Full Stack Developer<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="35%"></h3>
 
-<h3 align="center"><img src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" width="400"></h3>
+<h3 align="center"><img src="https://miro.medium.com/v2/resize:fit:1400/1*5OSbGu-5Z98IT8r76UJZbw.gif" width="400"></h3>
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=NKKushwaha&label=Profile%20views&color=0e75b6&style=flat" alt="NKKushwaha" width="150" height="30"/> </p>
