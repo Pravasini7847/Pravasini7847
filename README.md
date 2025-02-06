@@ -17,10 +17,8 @@
 <h3 align="left"><img src="https://user-images.githubusercontent.com/74038190/221352989-518609ab-b4d1-459e-929f-a08cd2bd9b3c.gif" width="45"> Connect with me:</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/pravasini-ojha-b51711233" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="nihal-gupta-77b68b28b" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/user:26838746/Pravasini Ojha" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="23147551" height="30" width="40" /></a>
+<a href="https://stackoverflow.com/users/26838746/pravasini-ojha" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="23147551" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/profile/ojhapravasini" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="nihalgt220" height="30" width="40" /></a>
-<a href="https://leetcode.com/u/NKKushwaha/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="nihalgt220" height="30" width="40" /></a>
-<a href="https://www.geeksforgeeks.org/user/nk4458woh/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="nihalgdo58" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/42077049-1939-493e-9a19-47ca5db36643" width="35">&nbsp; and Tools  <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/fa83eeb9-f4e2-4d85-93f0-688af11babf8" width="35">&nbsp; :</h3><br>
