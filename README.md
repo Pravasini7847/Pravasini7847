@@ -3,10 +3,8 @@
 
 <h3 align="center"><img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="35%">Full Stack Developer<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="35%"></h3>
 
-<h3 align="center"><img src="https://miro.medium.com/v2/resize:fit:1400/1*5OSbGu-5Z98IT8r76UJZbw.gif" width="400"></h3>
 
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=NKKushwaha&label=Profile%20views&color=0e75b6&style=flat" alt="NKKushwaha" width="150" height="30"/> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=NKKushwaha" alt="NKKushwaha" /></a> </p>
 
